@@ -1,0 +1,2 @@
+This is the 2nd Test file created via the command line for the purposes of
+Lesson 254 Version Control Using Git and the Command Line.
