@@ -1,2 +1,4 @@
 This is the 3rd Test file created via the command line for the purposes of
 Lesson 254 Version Control Using Git and the Command Line.
+
+This is an update for committing to git.
